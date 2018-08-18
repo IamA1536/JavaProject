@@ -1,2 +1,2 @@
 # JavaProject
-Just some execrise.
+Just some exercise.
